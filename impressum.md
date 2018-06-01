@@ -1,4 +1,5 @@
-<b>Impressum / Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV)</b>
+## Impressum
+<b>Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV)</b>
 
 Thoralf Will<br>
 Arnulfsplatz 9<br>
