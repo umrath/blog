@@ -39,3 +39,5 @@ Die Verwendung der Kontaktdaten unseres Impressums zur gewerblichen Werbung ist 
 <b>Personenbezogene Daten</b>
 
 Dies Blog erhebt selbst keinerlei Daten über das hinaus, was GitHub selbst an Daten erhebt. Daher finden die Regelungen von Github Anwendung, die sich hier finden: https://help.github.com/articles/github-privacy-statement/
+
+[Home](index.md)
