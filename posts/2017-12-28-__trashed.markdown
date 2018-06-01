@@ -1,0 +1,72 @@
+---
+author: umrath
+comments: true
+date: 2017-12-28 18:44:37+00:00
+layout: post
+link: http://umrath.blog/?p=3146
+published: false
+slug: __trashed
+title: Ladesituation in Regensburg - Stand und Ausblick
+wordpress_id: 3146
+categories:
+- Allgemeines
+---
+
+Vor ein paar Wochen habe ich mich über die allgemeine Situation der Ladesäulen in Deutschland und auch ein wenig über den Stand in Regensburg ausgelassen. Heute will ich ganz speziell auf Regenburg eingehen und zeigen, warum die Strategie von Stadt und REWAG großer Murks ist.
+
+
+# Ausgangslage
+
+
+Wir haben in Regensburg und Umgebung derzeit einige Hundert Elektroautos und dazu noch deutlich mehr Plugin-Hybriden.
+
+Außerdem befinden sich im Stadtgebiet und der Umgebung gut 40 Ladesäulen. Die meisten davon sind AC-Ladesäulen mit 22 kW und 2 Anschlüssen.
+
+
+# Problembeschreibung
+
+
+Eigentlich klingt ja die Ausgangslage ganz gut. 40 Ladesäulen auf ein paar Hundert Elektroautos scheint angemessen zu sein.
+
+Wäre es möglicherweise auch, wenn die Ladesäulen bedarfsgerechnet platziert wären und die Verfügbarkeit gegeben wäre.
+
+Praktisch sieht es so aus, dass gerade in den Bereichen, in denen Ladesäulen benötigt werden, praktisch keine Verfügbar sind.
+Die wenigen Ladesäulen, die strategsich günstig platziert sind (Arnulfsplatz, Emmeramsplatz) sind überlastet und/oder regelmäßig zugeparkt.
+
+Es gibt in Regensburg exakt 0 Destination Charger, also Lademöglichkeiten an Parkplätzen. Sämtliche Ladesäulen sind nur für temporäres Laden ausgelegt.
+
+Das ist ein grundsätzliches Problem, denn es zeigt, dass die Verantwortlichen den entscheidenden Unterschied zwischen Elektromobilität und alter Verbrennermobilität nicht verstanden haben.
+
+Das gleiche Bild zeigt sich bei der weiteren Planung und Verteilung der Ladesäulen.
+
+Statt die Ladesäulen dort zu platzieren, wo sie tatsächlich benötigt werden, sollen nun Ladeparks geschaffen werden, in denen die Leute ihre Fahrzeuge abstellen sollen und dann mit dem ÖPNV diese Plätze ansteuern. Das klingt auf dem Papier nach einer guten Idee, ist aber in der Praxis kompletter Nonsens.
+
+Warum?
+
+Aktuell soll am unteren Wöhrd diese Ladeinfrastruktur entstehen.
+Am unteren Wöhrd wohnt aber kaum jemand. D.h. die Plätze werden tatsächlich nur mit dem ÖPNV erreichbar sein.
+Gleichzeitig liegt der untere Wöhrd aber mitten in dem Bereich, den man mit dem Auto besser meidet, weil man morgens und abends dort kaum weg kommt, ohne nicht im Stau zu stehen.
+
+Konkret bedeutet das, dass ein Bewohner der Innenstadt (Osten, Westen, zentral) mit dem Bus (das kostet natürlich Geld) erstmal 10-20 Minuten mit dem Stinker-Bus durch die Innenstadt fahren darf, bis er dort am unteren Wöhrd ankommt. Dann setzt man sich in sein vollgeladenes auf warmes Auto (ich unterstelle mal einigermaßen akzeptable Tarife, die so etwas ermöglichen) und fährt 10-20 Minuten, bis man aus der Stadt raus kommt. Wer im Süden arbeitet (Conti, BMW, Osram, etc.) fährt dann erstmal genau die Strecke zurück, die er gerade mir dem Bus zum Auto gefahren ist. Man investiert also nicht nur die Kosten für den Bus und verschwendet morgens und abends zusätzlich jeweils 20-30 Minuten für nichts sondern sorgt auch dafür, dass die ohnehin schon angespannte Verkehrssituation in genau diesem Bereich noch angespannter wird.
+
+Wer denkt sich so etwas aus? (Offenbar niemand, der diese Einrichtung später nutzen wird.)
+
+Warum werden die Leute, die das hinter nutzen sollen, nicht gefragt?
+
+In Amsterdam haben die Besitzer von Elektroautos die Möglichkeit, den Bedarf einer Ladesäule anzumelden und die Stadt kümmert sich dann nach Möglichkeit darum, dass dort eine Lademöglichkeit entsteht. Das Ergebnis: Amsterdam hat mit die höchste Elektroautodichte der Welt. Es funktioniert also.
+
+
+# Wie ginge es besser?
+
+
+Baut die Ladeinfrastruktur dort auf, wo sie benötigt wird. Redet mit den Leuten.
+
+Sorgt dafür, dass die existierende Ladeinfrastruktur auch verfügbar ist. Schildert vernünftig aus und schleppt Falschparker konsequent ab. Was nützt eine Ladesäule wenn sie zugeparkt ist?
+
+In Stuttgart hat man das auch schon verstanden und tauscht die Beschilderung aus:
+
+![12510470_1077106909008647_765326385329146354_n](https://umrath.files.wordpress.com/2017/12/12510470_1077106909008647_765326385329146354_n.jpg)
+
+In Regensburg werden weiterhin Parkplatzschilder mit textuellem Hinweis aufgestellt. Abgeschleppt wird grundsätzlich nicht.
+
+
